@@ -36,7 +36,7 @@ jsonschema==3.2.0
 junit-xml==1.9
 lazy-object-proxy==1.4.3
 livereload==2.6.1
-lxml==4.5.0
+lxml==4.6.3
 Markdown==3.2.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
