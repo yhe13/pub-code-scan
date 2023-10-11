@@ -55,7 +55,7 @@ powr==0.8.4.36
 py==1.10.0
 py-onebkc==1.0.3.22
 pycparser==2.20
-Pygments==2.7.4
+Pygments==2.15.0
 PyJWT==1.7.1
 pylint==2.5.2
 pyOpenSSL==19.1.0
